@@ -10,8 +10,6 @@ I have a strong interest in Software development and Web design. In the Future I
 *   ✉️  You can contact me at [pakapon10ketkong@gmail.com](mailto:pakapon10ketkong@gmail.com)
 *   🧠  I'm learning HTML , CSS , Python , Java Script , C++ , PHP
 *   ⚡  I like a Cat So much!!!!!!!!!!!!!!
-*   ### Skills 
-                    </p>
 <a href="https://github.com/Pakpony" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pakpony&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
